@@ -49,7 +49,7 @@ function power(x,y) {
 // 6. square_root
 //    write a function named "square_root" that takes in one parameter and returns their result
 function square_root(x) {
-Math.sqrt(x);
+return Math.sqrt(x);
 }
 
 // 7. logBase10
